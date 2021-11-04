@@ -1,0 +1,14 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+
+#root: thuộc tính đặc biệt cần được chỉ định ở đầu tệp bên ngoài bất kỳ phần nào. Đặt thành true để dừng .editorconfigtìm kiếm tệp trên tệp hiện tại.
+#end_of_line: đặt thành lf , cr hoặc crlf để kiểm soát cách biểu diễn ngắt dòng.
+#insert_final_newline: đặt thành true để đảm bảo tệp kết thúc bằng dòng mới khi lưu và false để đảm bảo tệp không kết thúc .
